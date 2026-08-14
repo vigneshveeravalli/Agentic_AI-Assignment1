@@ -1,0 +1,15 @@
+Artificial intelligence is transforming many industries.
+Companies use AI to automate repetitive tasks, analyze large amounts
+of data, improve customer service, and support decision making.
+
+Generative AI has become particularly important because it can create
+text, images, code, and other forms of content. Large language models
+can understand natural language and generate human-like responses.
+
+However, organizations also face challenges when adopting AI.
+These include data privacy, security, model reliability, high
+computational costs, and the need for skilled employees.
+
+Successful AI adoption requires organizations to combine technology
+with appropriate governance, security practices, human oversight,
+and continuous evaluation.
