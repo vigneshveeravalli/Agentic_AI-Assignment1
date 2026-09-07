@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Anita Sharma",
+        "company": "TechNova",
+        "role": "CTO",
+        "industry": "SaaS",
+        "company_size": 250,
+        "email": "anita@example.com"
+    },
+    {
+        "name": "Rahul Mehta",
+        "company": "RetailPro",
+        "role": "Marketing Manager",
+        "industry": "Retail",
+        "company_size": 80,
+        "email": "rahul@example.com"
+    },
+    {
+        "name": "Priya Rao",
+        "company": "CloudWorks",
+        "role": "CEO",
+        "industry": "Cloud Computing",
+        "company_size": 500,
+        "email": "priya@example.com"
+    }
+]

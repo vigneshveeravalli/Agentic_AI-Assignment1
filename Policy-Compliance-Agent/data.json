@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "employee": "Employee_001",
+        "category": "Travel",
+        "amount": 4500,
+        "receipt": true,
+        "date": "2026-08-10"
+    },
+    {
+        "id": 2,
+        "employee": "Employee_002",
+        "category": "Entertainment",
+        "amount": 12000,
+        "receipt": true,
+        "date": "2026-08-09"
+    },
+    {
+        "id": 3,
+        "employee": "Employee_003",
+        "category": "Food",
+        "amount": 1800,
+        "receipt": false,
+        "date": "2026-08-08"
+    },
+    {
+        "id": 4,
+        "employee": "Employee_004",
+        "category": "Travel",
+        "amount": 6500,
+        "receipt": true,
+        "date": "2026-08-15"
+    },
+    {
+        "id": 5,
+        "employee": "Employee_005",
+        "category": "Office",
+        "amount": 3000,
+        "receipt": true,
+        "date": "2026-08-07"
+    }
+]
